@@ -1,2 +1,0 @@
-**About Us**
-We are a platform that allows startups and talented individuals to meet on-demand. For startups, we position available roles to potential candidates focusing on fintechs, cleantechs, edtechs, medtech and agritech. For talent, we collect relevant qualification information and match them against the startup JDs. We maintain a database of highly qualified potential employees who can be matched in the future with jobs.
